@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\U 2022\Culebriita\Culebriita\bin\Debug\Culebriita.exe.config
+C:\Users\admin\Desktop\U 2022\Culebriita\Culebriita\bin\Debug\Culebriita.exe
+C:\Users\admin\Desktop\U 2022\Culebriita\Culebriita\bin\Debug\Culebriita.pdb
+C:\Users\admin\Desktop\U 2022\Culebriita\Culebriita\obj\Debug\Culebriita.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\U 2022\Culebriita\Culebriita\obj\Debug\Culebriita.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\U 2022\Culebriita\Culebriita\obj\Debug\Culebriita.exe
+C:\Users\admin\Desktop\U 2022\Culebriita\Culebriita\obj\Debug\Culebriita.pdb
